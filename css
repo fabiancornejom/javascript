@@ -2,3 +2,12 @@ How to apply css to input with ID?
 input{
 }
 
+display block : sirve en algunos casos para poner los elementos en vertical
+Textarea border color not changing completely
+
+border: none; = bloquea los demas bordes el border color lo puede bloquear
+
+https://stackoverflow.com/questions/31433941/textarea-border-color-not-changing-completely
+
+
+
